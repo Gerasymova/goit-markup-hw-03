@@ -410,8 +410,6 @@ button:focus {
   font-size: 16px;
 
   line-height: 1.18;
-
-  margin-bottom: 10px;
 }
 
 .position {
@@ -611,7 +609,7 @@ button:focus {
 .ExamplesProjects-list .list-item {
   border: 1px solid #eeeeee;
 
-  width: 372px;
+  width: 360px;
 }
 
 .ExamplesProjects-list .list-item:not(:nth-child(3n)) {
@@ -627,5 +625,5 @@ button:focus {
 }
 
 .projects {
-  padding: 20px 24px;
+  padding: 18px 22px;
 }
