@@ -201,7 +201,7 @@ button:focus {
 
   text-align: center;
 
-  padding-bottom: 94px;
+  padding-bottom: 200px;
 
   padding-top: 200px;
 }
@@ -221,7 +221,7 @@ button:focus {
 
   text-transform: uppercase;
 
-  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .hero-btn {
@@ -238,8 +238,6 @@ button:focus {
   line-height: 1.87;
 
   letter-spacing: 0.06em;
-
-  margin-bottom: 200px;
 }
 
 .btn.hero {
@@ -259,11 +257,7 @@ button:focus {
 
   background-color: var(--accent-color);
 
-  min-width: 200px;
-
   padding: 10px 32px;
-
-  margin-bottom: 200px;
 
   border: 1px solid transparent;
 
@@ -371,7 +365,6 @@ button:focus {
   margin-left: 30px;
 }
 
-.our-team-list,
 .our-team-list-item {
   background: var(--primary-white-color);
 
@@ -397,8 +390,6 @@ button:focus {
 
   margin-left: auto;
 
-  margin-bottom: 10px;
-
   margin-right: auto;
 }
 
@@ -409,8 +400,6 @@ button:focus {
   line-height: 1.18;
 
   letter-spacing: 0.03em;
-
-  margin-bottom: 30px;
 }
 
 .name {
