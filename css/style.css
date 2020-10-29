@@ -606,8 +606,6 @@ button:focus {
   line-height: 2em;
 
   letter-spacing: 0.06em;
-
-  /* margin-left: 24px; */
 }
 
 .ExamplesProjects-list .list-item {
@@ -626,10 +624,6 @@ button:focus {
   line-height: 1.87em;
 
   letter-spacing: 0.03em;
-
-  /* margin-left: 24px;
-
-  margin-bottom: 30px; */
 }
 
 .projects {
