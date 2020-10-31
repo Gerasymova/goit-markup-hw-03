@@ -614,7 +614,7 @@ button:focus {
 }
 
 .ExamplesProjects-list .list-item:not(:nth-child(3n)) {
-  margin-right: 15px;
+  margin-right: 30px;
 }
 
 .ExamplesProjects-list p {
