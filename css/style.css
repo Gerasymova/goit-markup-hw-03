@@ -607,7 +607,7 @@ button:focus {
 .ExamplesProjects-list .list-item {
   border: 1px solid #eeeeee;
 
-  width: 372px;
+  width: 370px;
 }
 
 .ExamplesProjects-list .list-item:not(:nth-child(3n)) {
